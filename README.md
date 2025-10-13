@@ -1,5 +1,10 @@
 # `changesets-action-playground-pat`
 
+> [!CAUTION]
+> This is an outdated approach!\
+> Refer to [changesets-action-playground-app](https://github.com/marcalexiei/changesets-action-playground-app)
+> for a more solid approach.
+
 Trying to have changeset PR triggering CI workflows on creation and on PR update.
 
 1. Create a Personal Access token with the following permissions
